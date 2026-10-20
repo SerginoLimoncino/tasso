@@ -28,13 +28,16 @@ Dentro lo zip trovi anche il **manuale** in PDF e l'**indice** delle funzioni.
 - 🌐 **Internet**: test di velocità, consumo dati, Wi-Fi salvati.
 - 🩺 **Salute del PC** con voto da 0 a 100 e **mappa del disco**.
 - 💬 **Stato del PC su Discord** (solo lettura) nel tuo canale privato.
+- 📂 **Apri qualsiasi file**: scegli un file e Tasso ti dice cos'è e con quale programma aprirlo.
+- 🔄 **Controlla aggiornamenti** dal programma, con link diretto al Discord.
 - 🎨 **7 temi** a scelta.
 
 ## Versioni
 
 | Versione | Novità |
 |---|---|
-| **2.2** | Pagina **Giochi**: ottimizza prima di giocare (non chiude mai Discord, OBS e i programmi per lo streaming), pannellino in gioco con CPU, scheda video e RAM, autoclick con tasto a scelta (Esc lo ferma sempre), libreria con copertine. Temperature delle schede **AMD Radeon**. Stato del PC su Discord. Salute del PC, test di velocità, Wi-Fi salvati, mappa del disco. Pulizia più sicura: i file temporanei in uso restano, nessuna finestra durante le pulizie, il tasto Ferma si ferma subito. |
+| **2.3** | Apri qualsiasi file, pulsante "Controlla aggiornamenti" + link Discord, nuovi strumenti in Risolvi problemi (stampante, Microsoft Store, ricerca/menu Start), "Apri cartella" per i file grandi, libreria giochi in cima, confronto chiaro tra le modalità di velocità, descrizioni più ricche, corretto il leggero sfarfallio. |
+| 2.2 | Pagina **Giochi**: ottimizza prima di giocare (non chiude mai Discord, OBS e i programmi per lo streaming), pannellino in gioco con CPU, scheda video e RAM, autoclick con tasto a scelta (Esc lo ferma sempre), libreria con copertine. Temperature delle schede **AMD Radeon**. Stato del PC su Discord. Salute del PC, test di velocità, Wi-Fi salvati, mappa del disco. Pulizia più sicura: i file temporanei in uso restano, nessuna finestra durante le pulizie, il tasto Ferma si ferma subito. |
 | 2.0.1 | Le pulizie non aggiornano più i programmi da sole: così Discord, Claude, Proton e simili non chiedono di rifare l'accesso. L'aggiornamento dei programmi resta negli Strumenti, solo se lo avvii tu. |
 | 2.0 | Prima versione pubblica. |
 
