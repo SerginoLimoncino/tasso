@@ -24,13 +24,18 @@ Dentro lo zip trovi anche il **manuale** in PDF e l'**indice** delle funzioni.
 - ⚡ **Velocità**: modalità Gaming, FPS, Film e Silenzioso, e la gestione dei programmi all'avvio.
 - 🔧 **Riparazione**: audio, internet, Windows Update e controllo dei dischi.
 - 🛡️ **Sicurezza**: punto di ripristino automatico prima delle pulizie importanti.
+- 🎮 **Giochi**: ottimizza prima di giocare, pannellino trasparente con uso e temperature, autoclick, libreria unica con copertine (Steam, Epic, Riot), modalità gioco automatica.
+- 🌐 **Internet**: test di velocità, consumo dati, Wi-Fi salvati.
+- 🩺 **Salute del PC** con voto da 0 a 100 e **mappa del disco**.
+- 💬 **Stato del PC su Discord** (solo lettura) nel tuo canale privato.
 - 🎨 **7 temi** a scelta.
 
 ## Versioni
 
 | Versione | Novità |
 |---|---|
-| **2.0.1** | Le pulizie non aggiornano più i programmi da sole: così Discord, Claude, Proton e simili non chiedono di rifare l'accesso. L'aggiornamento dei programmi resta negli Strumenti, solo se lo avvii tu. |
+| **2.2** | Pagina **Giochi**: ottimizza prima di giocare (non chiude mai Discord, OBS e i programmi per lo streaming), pannellino in gioco con CPU, scheda video e RAM, autoclick con tasto a scelta (Esc lo ferma sempre), libreria con copertine. Temperature delle schede **AMD Radeon**. Stato del PC su Discord. Salute del PC, test di velocità, Wi-Fi salvati, mappa del disco. Pulizia più sicura: i file temporanei in uso restano, nessuna finestra durante le pulizie, il tasto Ferma si ferma subito. |
+| 2.0.1 | Le pulizie non aggiornano più i programmi da sole: così Discord, Claude, Proton e simili non chiedono di rifare l'accesso. L'aggiornamento dei programmi resta negli Strumenti, solo se lo avvii tu. |
 | 2.0 | Prima versione pubblica. |
 
 ---
