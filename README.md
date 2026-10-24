@@ -34,6 +34,7 @@ Dentro lo zip trovi anche il **manuale** in PDF e l'**indice** delle funzioni.
 
 | Versione | Novità |
 |---|---|
+| **2.5.1** | Corretta la scheda "Media" della pulizia, che si vedeva deformata. |
 | **2.5** | Profilo gioco con interruttore che resta acceso dopo il riavvio, potenza per ogni gioco, ping ai server dei giochi, Regola con Tasso, comandi gaming spiegati, 10 problemi dei giocatori in Risolvi problemi, driver di tutto il PC (AMD/NVIDIA/Intel, audio, mouse, tastiera), 5 livelli di pulizia, pulizia programmata ogni 1 o 2 settimane, voto al PC, aggiornamento programmi, icone vere, Apri qualsiasi file più furbo, file doppi e grandi su altri dischi, distruggi più file, Torna indietro, portachiavi con PIN da 4 a 12 numeri o senza, Discord più ricco. Correzioni: pulsante Aggiorna del consumo internet, Prestazioni elevate sui PC con solo "Bilanciato", pulizia programmata con Tasso già aperto, e altre trovate dai controlli. |
 | 2.4 | Disinstallatore profondo (resti nelle cartelle e nel registro), sottocartelle negli strumenti, Prestazioni+ (overclock sicuro guidato), backup foto e documenti, avvisi su misura, tema Belva. |
 | 2.3 | Apri qualsiasi file, pulsante "Controlla aggiornamenti" + link Discord, nuovi strumenti in Risolvi problemi (stampante, Microsoft Store, ricerca/menu Start), "Apri cartella" per i file grandi, libreria giochi in cima, confronto chiaro tra le modalità di velocità, descrizioni più ricche, corretto il leggero sfarfallio. |
