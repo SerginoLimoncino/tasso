@@ -4,6 +4,8 @@
 
 Tasso è un programma gratuito per **Windows 10 e 11** (64 bit). È leggero e non va installato.
 
+Alla prima apertura scegli come lo vuoi: **🎮 Gaming** (tutto Tasso, con giochi, FPS e ping) oppure **💼 Ufficio** (più semplice, colori chiari, i problemi di tutti i giorni). Lo cambi quando vuoi.
+
 ## 📥 Scarica
 
 👉 **[Scarica Tasso (ultima versione)](https://github.com/SerginoLimoncino/tasso/raw/main/Tasso.zip)**
@@ -20,21 +22,25 @@ Dentro lo zip trovi anche il **manuale** in PDF e l'**indice** delle funzioni.
 
 ## Cosa fa
 
-- 🧹 **Pulizia a 5 livelli**: Classica, Normale, Media, Profonda, Eccezionale, con **pulizia programmata** ogni 1 o 2 settimane e **voto al PC** prima e dopo.
+- 🔎 **Rileva i problemi**: un clic e Tasso controlla 58 cose in circa un minuto (stampanti, internet, Word, Excel, Outlook, OneDrive, periferiche, Windows e giochi). Non cambia niente: ti mostra solo i problemi trovati davvero, ognuno con il suo **Risolvi**.
+- 💼 **100 problemi dell'ufficio** risolti con un pulsante, divisi in gruppi e con la ricerca: stampanti, Wi-Fi, VPN, Word, Excel, Outlook, Teams, riunioni, OneDrive, tastiera, schermo…
+- ⬆️ **Aggiorna con un clic**: quando esce una versione nuova, Tasso te lo dice e si aggiorna da solo.
+- 🧹 **Pulizia a 5 livelli**: Classica, Normale, Media, Profonda, Eccezionale, con **pulizia programmata** ogni 1 o 2 settimane (anche Profonda o Eccezionale, se le vuoi) e **voto al PC** da 1 a 100 prima e dopo.
 - 🎮 **Giochi**: **profilo gioco** con un interruttore che resta acceso anche dopo il riavvio, **potenza per ogni gioco**, **ping ai server dei giochi**, Regola con Tasso, comandi gaming spiegati in parole semplici, pannellino in gioco, autoclick, libreria Steam/Epic/Riot.
-- 🔧 **Risolvi problemi**: audio, internet, Windows Update, stampante e **10 problemi dei giocatori** con un pulsante (scatti, pochi FPS, ping alto, gioco che non parte, Steam/Epic, schermo nero, controller e cuffie, Xbox e Game Pass, anti-cheat, Discord).
+- 🔧 **Risolvi problemi**: audio, internet, Windows Update, stampante e **13 problemi dei giocatori** con un pulsante (scatti, pochi FPS, ping alto, gioco che non parte, Steam/Epic, schermo nero, controller e cuffie, Xbox e Game Pass, anti-cheat, Discord).
 - 🔌 **Driver di tutto il PC**: scheda video AMD Radeon, NVIDIA o Intel, audio, mouse, tastiera, rete… da Windows Update e dai siti ufficiali.
 - 📦 **Programmi**: aggiornamento con winget, disinstallazione completa, app preinstallate, icone vere.
 - 📂 **File**: doppi e grandi anche su altri dischi, distruggi file, **Apri qualsiasi file** (riconosce il tipo vero e ti dà il programma gratuito con il link ufficiale).
 - 🔑 **Portachiavi**: password cifrate solo sul PC, con PIN da 4 a 12 numeri o senza PIN.
 - ↩️ **Torna indietro**: tutto quello che Tasso cambia resta anche dopo il riavvio, e torna com'era solo quando lo decidi tu.
-- 🌐 **Internet**, 🩺 **Salute del PC**, 💬 **Stato del PC su Discord**, 🎨 **8 temi**.
+- 🌐 **La tua connessione** con consigli utili (rete a 5 GHz, segnale, cavo), 🩺 **Salute del PC**, 💬 **Stato del PC su Discord**, 🎨 **14 temi** (8 per il Gaming e 8 per l'Ufficio).
 
 ## Versioni
 
 | Versione | Novità |
 |---|---|
-| **2.5.1** | Corretta la scheda "Media" della pulizia, che si vedeva deformata. |
+| **2.6** | Due modalità, **Gaming** e **Ufficio**. **Rileva i problemi** (58 controlli in un minuto, ti mostra solo quelli trovati). **100 problemi dell'ufficio** con gruppi e ricerca. **Aggiorna con un clic**. Home più semplice e menu in ordine. 3 nuovi problemi da gioco (mira del mouse, gioco che si riduce a icona, download lenti), libreria in cima a Giochi, Prestazioni+ riordinata, voto al PC da 1 a 100. Al posto del consumo di internet c'è "La tua connessione" con consigli utili. Pulizia programmata anche Profonda o Eccezionale. 6 temi nuovi per l'Ufficio. |
+| 2.5.1 | Corretta la scheda "Media" della pulizia, che si vedeva deformata. |
 | **2.5** | Profilo gioco con interruttore che resta acceso dopo il riavvio, potenza per ogni gioco, ping ai server dei giochi, Regola con Tasso, comandi gaming spiegati, 10 problemi dei giocatori in Risolvi problemi, driver di tutto il PC (AMD/NVIDIA/Intel, audio, mouse, tastiera), 5 livelli di pulizia, pulizia programmata ogni 1 o 2 settimane, voto al PC, aggiornamento programmi, icone vere, Apri qualsiasi file più furbo, file doppi e grandi su altri dischi, distruggi più file, Torna indietro, portachiavi con PIN da 4 a 12 numeri o senza, Discord più ricco. Correzioni: pulsante Aggiorna del consumo internet, Prestazioni elevate sui PC con solo "Bilanciato", pulizia programmata con Tasso già aperto, e altre trovate dai controlli. |
 | 2.4 | Disinstallatore profondo (resti nelle cartelle e nel registro), sottocartelle negli strumenti, Prestazioni+ (overclock sicuro guidato), backup foto e documenti, avvisi su misura, tema Belva. |
 | 2.3 | Apri qualsiasi file, pulsante "Controlla aggiornamenti" + link Discord, nuovi strumenti in Risolvi problemi (stampante, Microsoft Store, ricerca/menu Start), "Apri cartella" per i file grandi, libreria giochi in cima, confronto chiaro tra le modalità di velocità, descrizioni più ricche, corretto il leggero sfarfallio. |
